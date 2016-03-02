@@ -6,9 +6,12 @@ json_practice is an Android application to read and display JSON data from a sim
 Features
 -----
 json_practice provides the following features:
-* User ID input
-* Display user data
-* Handle error cases
+* Input for user ID
+* Button click event to call the facebook API for the user ID specified
+* Display simple data
+* Handles error cases and provides appropriate information to the user
+* Multilingual support for Enaglish and Korean
+
 
 
 

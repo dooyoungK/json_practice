@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JsonExercise</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="edit_title">ID : </string>
+    <string name="id">User ID</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="username">Username</string>
+    <string name="link">Link</string>
+	<string name="view_bt">View Data</string>
+	
+	<string name="edit_hint">Insert ID</string>
+	
+	<string name="edit_syntax_error">syntax error</string>
+    <string name="dlg_title">Internet Connection Error</string>
+    <string name="loading_dlg_msg">Loading Data...</string>
+	<string name="dlg_msg">please connect to working Internet connection.</string>
+	<string name="dlg_bt">OK</string>
+	
+	<string name="err_msg">Error Message: </string>
+	<string name="err_code">Error Code: </string>
+</resources>

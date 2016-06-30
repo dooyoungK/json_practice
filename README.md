@@ -10,7 +10,7 @@ json_practice provides the following features:
 * Button click event to call the facebook API for the user ID specified
 * Display simple data
 * Handles error cases and provides appropriate information to the user
-* Multilingual support for Enaglish and Korean
+* Multilingual support for English and Korean
 
 
 
